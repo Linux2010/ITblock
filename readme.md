@@ -7,6 +7,7 @@
 - [coding知识网站](./0-Bookmarks/coding.md)
 - [科学上网](./0-Bookmarks/科学上网.md)
 - [utils网站](./0-Bookmarks/utils.md)
+- [books](./0-Bookmarks/books.md)
 
 ## 1-Java
 
@@ -32,14 +33,14 @@
 ### servlet
 ### spring
 ### springMVC
-### springboot
-### springcloud
+### springBoot
+### springCloud
 ### mybatis
 ### 事务
 ### es
 ### mq
 ### redis
-### mycat
+### myCat
 ### netty
 
 
@@ -64,17 +65,23 @@
 ### docker
 ### k8s
 
-## 7-操作系统&Linux
+## 7-操作系统
 ### 操作系统
 ### linux
+### macos
 
 ## 8-Python&shell
 ### pyspark
+### selenium
+- [基础教程](./8-Python&shell/selenium/base.md)
+- [常见问题](./8-Python&shell/selenium/selenium-questions.md)
 
 ## 9-utils
+### office
 ### chrome
 > chrome是获取知识和资料的重要平台
 ### git
+### maven
 ### idea
 ### vscode
 ### markdown
@@ -91,6 +98,8 @@
 ## 11-exam
 ### PMP
 #### PMP结构化知识
+
+## 12-interview&offer
 
 #### PMP考点
 - [2022-11刘伟串讲笔记](./11-exam/pmp/202211-liuwei-nodebook.md)
