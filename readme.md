@@ -98,10 +98,12 @@
 ## 11-exam
 ### PMP
 #### PMP结构化知识
+- [PMP结构化知识](./11-exam/pmp/pmp.md)
+
+#### PMP考试技巧
+- [PMP考点](./11-exam/pmp/pmp-exam.md)
 
 ## 12-interview&offer
 
-#### PMP考点
-- [2022-11刘伟串讲笔记](./11-exam/pmp/202211-liuwei-nodebook.md)
 
 
