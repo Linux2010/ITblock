@@ -6,7 +6,7 @@
 ## 0-Bookmarks
 - [coding知识网站](./0-Bookmarks/coding.md)
 - [科学上网](./0-Bookmarks/科学上网.md)
-- [utils网站](./0-Bookmarks/coding.md)
+- [utils网站](./0-Bookmarks/utils.md)
 
 ## 1-Java
 
