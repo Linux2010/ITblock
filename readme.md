@@ -88,12 +88,19 @@
 ## 6-Golang
 ### 基础语法
 ### docker
+- [docker安装](https://blog.csdn.net/weixin_42360600/article/details/123130819) 
+- [docker-mysql安装](https://juejin.cn/post/7031188920511660063)
 ### k8s
 
 ## 7-操作系统
 ### 操作系统
 ### linux
+- [linux-jdk8安装](https://blog.csdn.net/weixin_51705001/article/details/125229109)
+
 ### macos
+- [mac-m1虚拟机版本arm安装](https://www.dandroid.cn/?p=8046)
+
+
 ### windows
 -[安装部署](./7-操作系统/windows/install.md)
 
