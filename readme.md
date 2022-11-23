@@ -51,6 +51,9 @@
 #### 面试题
 
 ### mybatis
+- [教程]()
+- [技巧与问题](./3-MiddleWare/mybaits/QA.md)
+
 ### 事务
 ### es
 ### mq
@@ -86,10 +89,13 @@
 ### flume
 
 ## 6-Golang
-### 基础语法
+### base
+
 ### docker
-- [docker安装](https://blog.csdn.net/weixin_42360600/article/details/123130819) 
+- [docker官网](https://www.docker.com/)
+- [linux下docker安装](https://blog.csdn.net/weixin_42360600/article/details/123130819) 
 - [docker-mysql安装](https://juejin.cn/post/7031188920511660063)
+- [docker-redis安装](https://blog.csdn.net/qq_17623363/article/details/106418353)
 ### k8s
 
 ## 7-操作系统
@@ -115,8 +121,15 @@
 ### chrome
 > chrome是获取知识和资料的重要平台
 ### git
+#### 安装
+#### 教程
+#### 使用技巧
+- [git-lfs大文件上传](https://git-lfs.github.com/)
+- [git如何删除已经提交的文件夹或文件](https://blog.csdn.net/qq_26118603/article/details/119700783)
 ### maven
 ### idea
+- [idea官网](https://www.jetbrains.com/)
+> 建议有实力请支持正版，其次去某宝买学生激活码（30多），用起来比较方便
 ### vscode
 ### markdown
 - [markdown语法](./9-utils/markdown/markdown-use.md)
