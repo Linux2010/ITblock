@@ -132,6 +132,7 @@
 ### idea
 - [idea官网](https://www.jetbrains.com/)
 > 建议有实力请支持正版，其次去某宝买学生激活码（30多），用起来比较方便
+- [【尚硅谷】IDEA2022全新版教程，兼容JDK17](https://www.bilibili.com/video/BV1CK411d7aA)
 ### vscode
 ### markdown
 - [markdown语法](./9-utils/markdown/markdown-use.md)
@@ -142,6 +143,7 @@
 
 ## 10-数仓&数据中台
 ### 数据仓库建设
+- [大数据项目之电商数仓3.0](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFF87NFB9t0WgGu3bMbhG76)
 ### 数据中台
 
 ## 11-exam
