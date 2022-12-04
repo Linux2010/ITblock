@@ -44,7 +44,6 @@
 - [教程](./3-MiddleWare/springCloud/base.md)
 #### 常见问题
 
-
 ### mybatis
 - [教程]()
 - [技巧与问题](./3-MiddleWare/mybaits/QA.md)
@@ -63,6 +62,9 @@
 - [面试专题]()
 ### netty
 - [面试专题]()
+### nginx
+- [nginx 静态资源配置](https://blog.csdn.net/alan_jj_wang/article/details/120531000)
+- [Nginx配置跨域（CORS）](https://blog.csdn.net/weixin_44273388/article/details/124206129)
 
 
 ## 4-Database
@@ -73,6 +75,7 @@
 #### 部署安装
 - [部署安装](./4-Database/mysql/install/install.md)
 #### 使用教程
+
 
 ### oracle
 - [面试专题]()
@@ -85,6 +88,8 @@
 ### kafka
 ### spark
 ### flink
+- [flink-cdc](https://zhuanlan.zhihu.com/p/460222417)
+- [基于FlinkCDC2.0+Flink SQL的实时采集与ETL解决方案](https://blog.csdn.net/dajiangtai007/article/details/123666147)
 ### hive
 ### impala
 ### clickhouse
@@ -96,8 +101,10 @@
 ### docker
 - [docker官网](https://www.docker.com/)
 - [linux下docker安装](https://blog.csdn.net/weixin_42360600/article/details/123130819) 
-- [docker-mysql安装](https://juejin.cn/post/7031188920511660063)
+- [docker-mysql安装](./6-Golang/docker/docker-mysql.md)
 - [docker-redis安装](https://blog.csdn.net/qq_17623363/article/details/106418353)
+- [docker-nginx安装](https://blog.csdn.net/BThinker/article/details/123507820)
+
 ### k8s
 
 ## 7-操作系统
