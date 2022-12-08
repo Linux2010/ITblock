@@ -62,6 +62,9 @@
 - [面试专题]()
 ### netty
 - [面试专题]()
+
+### webService
+- [常见问题](./3-MiddleWare/webService/Q&A.md)
 ### nginx
 - [nginx 静态资源配置](https://blog.csdn.net/alan_jj_wang/article/details/120531000)
 - [Nginx配置跨域（CORS）](https://blog.csdn.net/weixin_44273388/article/details/124206129)
@@ -112,12 +115,16 @@
 ### linux
 - [linux-jdk8安装](https://blog.csdn.net/weixin_51705001/article/details/125229109)
 
+### shell
+- [shell教程](./7-system/shell/base.md)
+- [shell技巧](./7-system/shell/plus.md)
+
 ### macos
 - [mac-m1虚拟机版本arm安装](https://www.dandroid.cn/?p=8046)
 
 
 ### windows
--[安装部署](./7-操作系统/windows/install.md)
+-[安装部署](7-system/windows/install.md)
 
 ## 8-Python&shell
 ### pyspark
