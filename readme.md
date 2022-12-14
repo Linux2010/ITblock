@@ -113,7 +113,10 @@
 ## 7-操作系统
 ### 操作系统
 ### linux
+- [linux常见操作](./7-system/linux/general.md)
 - [linux-jdk8安装](https://blog.csdn.net/weixin_51705001/article/details/125229109)
+- [linux-python3离线安装]
+- [linux-pip模块离线安装]
 
 ### shell
 - [shell教程](./7-system/shell/base.md)
@@ -127,6 +130,8 @@
 -[安装部署](7-system/windows/install.md)
 
 ## 8-Python&shell
+### python
+### shell
 ### pyspark
 ### selenium
 - [基础教程](./8-Python&shell/selenium/base.md)
