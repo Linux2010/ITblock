@@ -115,8 +115,8 @@
 ### linux
 - [linux常见操作](./7-system/linux/general.md)
 - [linux-jdk8安装](https://blog.csdn.net/weixin_51705001/article/details/125229109)
-- [linux-python3离线安装]
-- [linux-pip模块离线安装]
+- [linux-python安装](./7-system/linux/python-install.md)
+- [linux-pip模块离线安装](./7-system/linux/pip-install.md)
 
 ### shell
 - [shell教程](./7-system/shell/base.md)
@@ -131,6 +131,10 @@
 
 ## 8-Python&shell
 ### python
+- [pip安装包下载](https://pypi.org/)
+- [Django](7-system/python/Django.md)
+
+
 ### shell
 ### pyspark
 ### selenium
@@ -162,7 +166,7 @@
 
 ## 10-数仓&数据中台
 ### 数据仓库建设
-- [大数据项目之电商数仓3.0](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFF87NFB9t0WgGu3bMbhG76)
+- [数仓建设学习课程](./10-dw/dw.md)
 ### 数据中台
 
 ## 11-exam
