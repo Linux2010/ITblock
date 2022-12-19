@@ -82,6 +82,7 @@
 
 ### oracle
 - [面试专题]()
+- [常见问题](./4-Database/oracle/q&a.md)
 
 
 ## 5-Bigdata
