@@ -153,6 +153,9 @@
 - [git-lfs大文件上传](https://git-lfs.github.com/)
 - [git如何删除已经提交的文件夹或文件](https://blog.csdn.net/qq_26118603/article/details/119700783)
 ### maven
+
+- [maven常见问题](./9-utils/maven/q&a.md)
+- [maven技巧](./9-utils/maven/plus.md)
 ### idea
 - [idea官网](https://www.jetbrains.com/)
 > 建议有实力请支持正版，其次去某宝买学生激活码（30多），用起来比较方便
@@ -168,6 +171,7 @@
 ## 10-数仓&数据中台
 ### 数据仓库建设
 - [数仓建设学习课程](./10-dw/dw.md)
+- [数据平台](./10-dw/data-platform.md)
 ### 数据中台
 
 ## 11-exam
