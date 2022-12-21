@@ -176,13 +176,19 @@
 ### 数据中台
 
 ## 11-exam
+- [证书信息收集](./11-exam/exam.md)
+
 ### PMP
 #### PMP结构化知识
 - [PMP结构化知识](./11-exam/pmp/pmp.md)
-
 #### PMP考试技巧
 - [PMP考点](./11-exam/pmp/pmp-exam.md)
 
+### 软考-信息系统项目管理师
+- [软考教程](./11-exam/rk/rk.md)
+
+### CCP&CCA
+- [教程](./11-exam/ccp&cca.md)
 ## 12-interview&offer
 
 
