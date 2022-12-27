@@ -82,7 +82,7 @@
 
 
 ### oracle
-- [面试专题]()
+- [技巧](4-Database/oracle/plus.md)
 - [常见问题](./4-Database/oracle/q&a.md)
 
 

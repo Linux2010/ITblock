@@ -16,3 +16,7 @@
 - [尚硅谷大数据项目之电商数仓（4可视化报表）.pdf](./sgg-pdf/尚硅谷大数据项目之电商数仓（4可视化报表）.pdf)
 - [尚硅谷大数据项目之电商数仓（5即席查询Presto&Kylin）.pdf](./sgg-pdf/尚硅谷大数据项目之电商数仓（5即席查询Presto&Kylin）.pdf)
 - [尚硅谷大数据项目之电商数仓（6集群监控Zabbix）V6.2.0.pdf](./sgg-pdf/尚硅谷大数据项目之电商数仓（6集群监控Zabbix）V6.2.0.pdf)
+
+
+## 重点章节
+-[数仓建模理论 分层概述](https://www.youtube.com/watch?v=EklEN24AAuw&list=PLmOn9nNkQxJFF87NFB9t0WgGu3bMbhG76&index=78)
