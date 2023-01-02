@@ -1,8 +1,3 @@
 # markdown使用规则
 
-## 基础语法
-### \ 文本换行
-'\\' 可以实现文本换行
-
-
-## 高级语法
+- [菜鸟Markdown教程](https://www.runoob.com/markdown/md-tutorial.html)
