@@ -123,6 +123,9 @@
 ### shell
 - [shell教程](./7-system/shell/base.md)
 - [shell技巧](./7-system/shell/plus.md)
+- shell工具
+  - [termius](https://termius.com/download/macos)
+    - [如何解决【mac】中【Termius】中文显示乱码](https://blog.csdn.net/weixin_41998764/article/details/122500131)
 
 ### macos
 - [mac-m1虚拟机版本arm安装](https://www.dandroid.cn/?p=8046)
