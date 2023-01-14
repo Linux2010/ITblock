@@ -136,6 +136,7 @@
 
 ## 8-Python&shell
 ### python
+- [python](7-system/python/python.md)
 - [pip安装包下载](https://pypi.org/)
 - [Django](7-system/python/Django.md)
 
