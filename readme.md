@@ -151,6 +151,8 @@
 ### office
 ### chrome
 > chrome是获取知识和资料的重要平台
+- [chrome-skill](9-utils/chrome/chrome-skill.md)
+
 ### git
 #### 安装
 #### 教程
