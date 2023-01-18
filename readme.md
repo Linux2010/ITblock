@@ -35,8 +35,9 @@
 ### spring
 ### springMVC
 ### WebFlux
--[Spring Boot 2.0 WebFlux 教程 (一)](https://blog.csdn.net/weiwosuoai/article/details/89322592?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-89322592-blog-123268021.pc_relevant_multi_platform_whitelistv3&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-89322592-blog-123268021.pc_relevant_multi_platform_whitelistv3&utm_relevant_index=1)
+- [Spring Boot 2.0 WebFlux 教程 (一)](https://blog.csdn.net/weiwosuoai/article/details/89322592?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-89322592-blog-123268021.pc_relevant_multi_platform_whitelistv3&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-89322592-blog-123268021.pc_relevant_multi_platform_whitelistv3&utm_relevant_index=1)
 ### springBoot
+- [springboot集成系列](./3-MiddleWare/springBoot/jc.md)
 ### springCloud
 - [q&a](./3-MiddleWare/springCloud/q&a.md)
 #### 教程
