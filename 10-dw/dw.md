@@ -21,4 +21,4 @@
 ## 重点章节
 -[数仓建模理论 分层概述](https://www.youtube.com/watch?v=EklEN24AAuw&list=PLmOn9nNkQxJFF87NFB9t0WgGu3bMbhG76&index=78)
 
-https://blog.csdn.net/M_Z_Y_L/article/details/124183941
+

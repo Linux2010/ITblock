@@ -171,6 +171,8 @@
 ### vscode
 ### markdown
 - [markdown语法](./9-utils/markdown/markdown-use.md)
+### dbeaver
+- [dbeaver-skill](9-utils/dbeaver/dbeaver-skill.md)
 
 ---
 
