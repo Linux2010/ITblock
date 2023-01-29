@@ -1,7 +1,6 @@
 # ITblock
 
 > 1,**项目简介** ：这是一个IT技能工作文档。
-> 
 > 2,**转载须知** ：转载在文首注明出处：ITblock！
 ## 0-Bookmarks
 - [coding知识网站](./0-Bookmarks/coding.md)
@@ -11,23 +10,22 @@
 
 ## 1-Java
 - [教程]()
-- [面试专题]()
 
 ## 2-数据结构&算法&设计模式
-- [面试专题]()
+
 ### 数据结构
-- [面试专题]()
+
 ### 设计模式
-- [面试专题]()
+
 ### LeetCode
 - [LeetCode经典题解](./2-LeetCode/LeetCode-Classic.md)
-- [面试专题]()
+
 ### 算法
 - [LeetCode算法书籍](./2-LeetCode/Leetcode-Book.md)
 - [动态规划精讲(一)](./2-LeetCode/Dynamic-programming.md)
-- [面试专题]()
+
 ### 设计模式
-- [面试专题]()
+
 
 ---
 
@@ -47,23 +45,23 @@
 ### mybatis
 - [教程]()
 - [技巧与问题](./3-MiddleWare/mybaits/QA.md)
-- [面试专题]()
+
 ### 事务
-- [面试专题]()
+
 ### es
 - [https://www.elastic.co/cn/](https://www.elastic.co/cn/)
 - [es社区](https://elasticsearch.cn/explore/)
 - [安装部署运维](3-MiddleWare/es/install.md)
 ### mq
-- [面试专题]()
+
 ### redis
-- [面试专题]()
+
 #### 部署安装
 - [单节点安装](./3-MiddleWare/redis/install/singel.md)
 ### myCat
-- [面试专题]()
+
 ### netty
-- [面试专题]()
+
 
 ### webService
 - [常见问题](./3-MiddleWare/webService/Q&A.md)
@@ -74,7 +72,7 @@
 
 ## 4-Database
 ### sql
-- [面试专题]()
+
 ### mysql
 #### 部署安装
 - [部署安装](./4-Database/mysql/install/install.md)
