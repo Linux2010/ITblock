@@ -153,9 +153,7 @@
 - [chrome-skill](9-utils/chrome/chrome-skill.md)
 
 ### git
-#### 安装
-#### 教程
-#### 使用技巧
+- [git使用方法](9-utils/git/git-use.md)
 - [git-lfs大文件上传](https://git-lfs.github.com/)
 - [git如何删除已经提交的文件夹或文件](https://blog.csdn.net/qq_26118603/article/details/119700783)
 ### maven
@@ -172,7 +170,8 @@
 ### dbeaver
 - [dbeaver-skill](9-utils/dbeaver/dbeaver-skill.md)
 
----
+### Jmeter
+- [Jmeter使用](9-utils/Jmeter/Jmeter-use.md)
 
 ### jupyter
 
