@@ -70,7 +70,7 @@
 ### nginx
 - [nginx 静态资源配置](https://blog.csdn.net/alan_jj_wang/article/details/120531000)
 - [Nginx配置跨域（CORS）](https://blog.csdn.net/weixin_44273388/article/details/124206129)
-
+- [nginx安装](https://docs.qq.com/doc/DT2NWbFVmT2dsVUVU)
 
 ## 4-Database
 ### sql
@@ -85,6 +85,10 @@
 - [技巧](4-Database/oracle/plus.md)
 - [常见问题](4-Database/oracle/q&a.md)
 
+### Hive
+
+### PrestoSQL
+- [Trino概述-aliyun](https://help.aliyun.com/document_detail/444583.html)
 
 ## 5-Bigdata
 > [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)
