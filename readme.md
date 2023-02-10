@@ -10,6 +10,7 @@
 
 ## 1-Java
 - [教程]()
+- [](./0-Bookmarks/java-se.md)
 
 ## 2-数据结构&算法&设计模式
 
@@ -70,7 +71,7 @@
 ### nginx
 - [nginx 静态资源配置](https://blog.csdn.net/alan_jj_wang/article/details/120531000)
 - [Nginx配置跨域（CORS）](https://blog.csdn.net/weixin_44273388/article/details/124206129)
-- [nginx安装](https://docs.qq.com/doc/DT2NWbFVmT2dsVUVU)
+- [nginx安装](https://docs.qq.`com/doc/DT2NWbFVmT2dsVUVU)
 
 ## 4-Database
 ### sql
