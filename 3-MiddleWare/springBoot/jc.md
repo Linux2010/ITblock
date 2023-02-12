@@ -1,5 +1,6 @@
 # springBoot集成系列
-
+- swagger3集成
+  - [swagger3集成](https://www.cnblogs.com/shizilukou123/p/16037972.html)
 - 集成日志插件
   - [SpringBoot项目读取外置logback配置文件的问题及解决](https://www.jb51.net/article/260805.htm)
   - [SpringBoot项目中添加config文件夹的妙用](https://blog.csdn.net/sinat_28527463/article/details/119171151)
