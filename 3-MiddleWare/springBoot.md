@@ -1,4 +1,7 @@
-# springBoot集成系列
+# springBoot
+## springboot集成
+- 多数据源链接方案dynamic
+  - [dynamic](https://github.com/baomidou/dynamic-datasource-spring-boot-starter)
 - swagger3集成
   - [swagger3集成](https://www.cnblogs.com/shizilukou123/p/16037972.html)
 - springBoot集成Knife4J
@@ -7,7 +10,7 @@
   - [SpringBoot项目读取外置logback配置文件的问题及解决](https://www.jb51.net/article/260805.htm)
   - [SpringBoot项目中添加config文件夹的妙用](https://blog.csdn.net/sinat_28527463/article/details/119171151)
 - 集成普罗米修斯监控
-  - [最佳实践](./nobug/prometheus-nobug.md)
+  - [最佳实践](springBoot/nobug/prometheus-nobug.md)
   - [fastjson序列化导致prometheus返回监控数据格式错乱](https://www.cnblogs.com/yechen2019/p/14505024.html)
   - [全局JSON序列化导致prometheus数据格式错乱](https://blog.csdn.net/niugang0920/article/details/128101186)
   - [SpringBoot应用接入Prometheus的全过程解析](https://blog.csdn.net/weixin_48182198/article/details/115905767?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-115905767-blog-125427078.pc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-115905767-blog-125427078.pc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=2)
