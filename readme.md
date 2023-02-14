@@ -164,6 +164,7 @@
 - [maven常见问题](./9-utils/maven/q&a.md)
 - [maven技巧](./9-utils/maven/plus.md)
 ### idea
+- [idea](9-utils/idea.md)
 - [idea官网](https://www.jetbrains.com/)
 > 建议有实力请支持正版，其次去某宝买学生激活码（30多），用起来比较方便
 - [【尚硅谷】IDEA2022全新版教程，兼容JDK17](https://www.bilibili.com/video/BV1CK411d7aA)
