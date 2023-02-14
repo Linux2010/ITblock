@@ -1,6 +1,6 @@
 # springBoot
 ## springboot集成
-- 多数据源链接方案dynamic
+- 多数据源链接方案dynamic，动态数据源
   - [dynamic](https://github.com/baomidou/dynamic-datasource-spring-boot-starter)
   - [Springboot+MybatisPlus+MySQL+Oracle+Dynamic动态多数据源切换](https://www.cnblogs.com/liudongguo/p/15193206.html)
 - swagger3集成

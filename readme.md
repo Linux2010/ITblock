@@ -81,8 +81,7 @@
 - [mysql数据迁移](./4-Database/mysql/bf.πmd)
 
 ### oracle
-- [技巧](4-Database/oracle/plus.md)
-- [常见问题](4-Database/oracle/q&a.md)
+- [oracle](4-Database/oracle.md)
 
 ### Hive
 
