@@ -1,7 +1,7 @@
 # ITblock
-
 > 1,**项目简介** ：这是一个IT技能工作文档。
 > 2,**转载须知** ：转载在文首注明出处：ITblock！
+
 ## 0-Bookmarks
 - [coding知识网站](./0-Bookmarks/coding.md)
 - [科学上网](./0-Bookmarks/科学上网.md)
@@ -9,71 +9,34 @@
 - [books](./0-Bookmarks/books.md)
 
 ## 1-Java
-- [教程]()
-- [](./0-Bookmarks/java-se.md)
+- [java-se](./1-Java/java-se.md)
 
 ## 2-数据结构&算法&设计模式
 
-### 数据结构
+- [2.1-数据结构](./2-LeetCode/2.1.md)
 
-### 设计模式
+### 2.2-设计模式
 
-### LeetCode
+### 2.3-LeetCode
 - [LeetCode经典题解](./2-LeetCode/LeetCode-Classic.md)
-
-### 算法
+### 2.4-算法
 - [LeetCode算法书籍](./2-LeetCode/Leetcode-Book.md)
-- [动态规划精讲(一)](./2-LeetCode/Dynamic-programming.md)
-
-### 设计模式
-
-
----
 
 ## 3-MiddleWare
-### Json
-- [json处理](3-MiddleWare/json/json.md)
-### spring
-### springMVC
-### WebFlux
-- [Spring Boot 2.0 WebFlux 教程 (一)](https://blog.csdn.net/weiwosuoai/article/details/89322592?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-89322592-blog-123268021.pc_relevant_multi_platform_whitelistv3&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-89322592-blog-123268021.pc_relevant_multi_platform_whitelistv3&utm_relevant_index=1)
-### springBoot
-- [springboot集成系列](./3-MiddleWare/springBoot.md)
-### springCloud
-- [q&a](./3-MiddleWare/springCloud/q&a.md)
-#### 教程
-- [教程](./3-MiddleWare/springCloud/base.md)
-#### 常见问题
-
-### mybatis
-- [教程]()
-- [技巧与问题](./3-MiddleWare/mybaits/QA.md)
-
-### 事务
-
-### es
-- [https://www.elastic.co/cn/](https://www.elastic.co/cn/)
-- [es社区](https://elasticsearch.cn/explore/)
-- [安装部署运维](3-MiddleWare/es/install.md)
-### mq
-
-### redis
-
-#### 部署安装
-- [单节点安装](./3-MiddleWare/redis/install/singel.md)
-### myCat
-
-### netty
-
-
-### webService
-- [常见问题](./3-MiddleWare/webService/Q&A.md)
-### nginx
-- [nginx](3-MiddleWare/nginx.md)
+- [3.1-Json](3-MiddleWare/3.1-Json/json.md)
+- [3.2-spring](3-MiddleWare/3.2-spring/spring.md)
+- [3.3-springMVC](3-MiddleWare/3.3-springMVC/springMVC.md)
+- [3.4-WebFlux](3-MiddleWare/3.4-WebFlux/WebFlux.md)
+- [3.5-springBoot](3-MiddleWare/3.5-springBoot/springBoot.md)
+- [3.6-springCloud](3-MiddleWare/3.5-springCloud/springCloud.md)
+- [3.7-mybatis](3-MiddleWare/3.7-mybatis/mybatis.md)
+- [3.8-es](3-MiddleWare/3.8-es/es.md)
+- [3.9-redis](3-MiddleWare/3.9-redis/redis.md)
+- [3.10-webService](3-MiddleWare/3.10-webService/webService.md)
+- [3.11-nginx](3-MiddleWare/3.11-nginx/nginx.md)
 
 ## 4-Database
 ### sql
-
 ### mysql
 #### 部署安装
 - [部署安装](./4-Database/mysql/install/install.md)
