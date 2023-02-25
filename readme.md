@@ -13,14 +13,10 @@
 
 ## 2-数据结构&算法&设计模式
 
-- [2.1-数据结构](./2-LeetCode/2.1.md)
-
-### 2.2-设计模式
-
-### 2.3-LeetCode
-- [LeetCode经典题解](./2-LeetCode/LeetCode-Classic.md)
-### 2.4-算法
-- [LeetCode算法书籍](./2-LeetCode/Leetcode-Book.md)
+- [2.1-数据结构](2-LeetCode/2.1.md)
+- [2.2-设计模式](2-LeetCode)
+- [2.3-LeetCode]()
+- [2.4-算法]()
 
 ## 3-MiddleWare
 - [3.1-Json](3-MiddleWare/3.1-Json/json.md)
@@ -36,23 +32,14 @@
 - [3.11-nginx](3-MiddleWare/3.11-nginx/nginx.md)
 
 ## 4-Database
-### sql
-### mysql
-#### 部署安装
-- [部署安装](./4-Database/mysql/install/install.md)
-#### 使用教程
-- [mysql数据迁移](./4-Database/mysql/bf.πmd)
-
-### oracle
-- [oracle](4-Database/oracle.md)
-
-### Hive
-
-### PrestoSQL
-- [Trino概述-aliyun](https://help.aliyun.com/document_detail/444583.html)
+- [4.2-sql](4-Database/4.1-sql/sql.md)
+- [4.2-mysql](4-Database/4.1-mysql/mysql.md)
+- [4.3-oracle](4-Database/4.2-oracle/oracle.md)
+- [4.4-PrestoSQL](4-Database/4.3-PrestoSQL/PrestoSQL.md)
+- [4.4-Hive](4-Database/4.3-Hive/Hive.md)
 
 ## 5-Bigdata
-> [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)
+- [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)
 ### scala
 ### hadoop
 ### zookeeper
@@ -61,8 +48,6 @@
 ### flink
 - [flink-cdc](https://zhuanlan.zhihu.com/p/460222417)
 - [基于FlinkCDC2.0+Flink SQL的实时采集与ETL解决方案](https://blog.csdn.net/dajiangtai007/article/details/123666147)
-### hive
-- [hive](5-Bigdata/hive.md)
 ### impala
 ### clickhouse
 ### flume
