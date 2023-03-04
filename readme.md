@@ -61,62 +61,35 @@
 - [windows](7-system/windows/windows.md)
 
 ## 8-Python
-### python
-- [python](7-system/python/python.md)
-
-### pyspark
-### selenium
-- [基础教程](./8-Python&shell/selenium/base.md)
-- [常见问题](./8-Python&shell/selenium/selenium-questions.md)
+- [python](8-Python/python/python.md)
+- [selenium](8-Python/selenium/selenium.md)
+- [pyspark](8-Python/pyspark/pyspark.md)
 
 ## 9-utils
-### office
-### chrome
-- [chrome-skill](9-utils/chrome/chrome-skill.md)
+- [office]()
+- [chrome](9-utils/chrome/chrome.md)
+- [git](9-utils/git/git.md)
+- [maven](9-utils/maven/maven.md)
+- [idea](9-utils/idea/idea.md)
 
-### git
-- [git使用方法](9-utils/git/git-use.md)
-- [git-lfs大文件上传](https://git-lfs.github.com/)
-- [git如何删除已经提交的文件夹或文件](https://blog.csdn.net/qq_26118603/article/details/119700783)
-### maven
-
-- [maven常见问题](./9-utils/maven/q&a.md)
-- [maven技巧](./9-utils/maven/plus.md)
 ### idea
 - [idea](9-utils/idea/idea.md)
-- [idea官网](https://www.jetbrains.com/)
-- [【尚硅谷】IDEA2022全新版教程，兼容JDK17](https://www.bilibili.com/video/BV1CK411d7aA)
-### vscode
-### markdown
-- [markdown语法](./9-utils/markdown/markdown.md)
-### dbeaver
-- [dbeaver-skill](9-utils/dbeaver/dbeaver.md)
-
-### Jmeter
-- [Jmeter使用](9-utils/Jmeter/Jmeter.md)
-
-### jupyter
+- [vscode]()
+- [markdown](9-utils/markdown/markdown.md)
+- [dbeaver](9-utils/dbeaver/dbeaver.md)
+- [Jmeter](9-utils/Jmeter/Jmeter.md)
 
 ## 10-数仓&数据中台
-### 数据仓库建设
 - [数仓建设学习课程](./10-dw/dw.md)
 - [数据平台](./10-dw/data-platform.md)
-### 数据中台
 
 ## 11-exam
 - [证书信息收集](./11-exam/exam.md)
-
-### PMP
-#### PMP结构化知识
 - [PMP结构化知识](./11-exam/pmp/pmp.md)
-#### PMP考试技巧
 - [PMP考点](./11-exam/pmp/pmp-exam.md)
-
-### 软考-信息系统项目管理师
 - [软考教程](./11-exam/rk/rk.md)
-
-### CCP&CCA
 - [教程](./11-exam/ccp&cca.md)
+
 ## 12-interview&offer
 
 
