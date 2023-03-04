@@ -39,48 +39,26 @@
 
 ## 5-Bigdata
 - [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)
-### scala
-### hadoop
-### zookeeper
-### kafka
-### spark
-### flink
-- [flink-cdc](https://zhuanlan.zhihu.com/p/460222417)
-- [基于FlinkCDC2.0+Flink SQL的实时采集与ETL解决方案](https://blog.csdn.net/dajiangtai007/article/details/123666147)
-### impala
-### clickhouse
-### flume
+- [scala](5-Bigdata)
+- [hadoop](5-Bigdata)
+- [zookeeper](5-Bigdata)
+- [kafka](5-Bigdata)
+- [spark](5-Bigdata)
+- [flink](5-Bigdata/flink/flink.md)
+- [impala](5-Bigdata)
+- [clickhouse](5-Bigdata)
+- [flume](5-Bigdata)
 
 ## 6-Golang
-### base
 
-### docker
-- [docker官网](https://www.docker.com/)
-- [linux下docker安装](https://blog.csdn.net/weixin_42360600/article/details/123130819) 
-- [docker-mysql安装](./6-Golang/docker/docker-mysql.md)
-- [docker-redis安装](https://blog.csdn.net/qq_17623363/article/details/106418353)
-- [docker-nginx安装](https://blog.csdn.net/BThinker/article/details/123507820)
-
-### k8s
+- [docker](6-Golang/docker/docker.md)
+- [k8s]()
 
 ## 7-操作系统
 ### 操作系统
-### linux
-- [linux常见操作](./7-system/linux/general.md)
-- [linux-jdk8安装](https://blog.csdn.net/weixin_51705001/article/details/125229109)
-- [linux-python安装](./7-system/linux/python-install.md)
-- [linux-pip模块离线安装](./7-system/linux/pip-install.md)
-
-### shell
-- [shell教程](./7-system/shell/base.md)
-- [shell技巧](./7-system/shell/plus.md)
-- shell工具
-  - [termius](https://termius.com/download/macos)
-    - [如何解决【mac】中【Termius】中文显示乱码](https://blog.csdn.net/weixin_41998764/article/details/122500131)
-
-### macos
-- [mac-m1虚拟机版本arm安装](https://www.dandroid.cn/?p=8046)
-- [vmware-fusion-m1 激活码](https://juejin.cn/post/7167551141788516383)
+- [linux](7-system/linux/linux.md)
+- [shell](7-system/shell/shell.md)
+- [macos](7-system/macos/macos.md)
 
 ### windows
 -[安装部署](7-system/windows/install.md)
