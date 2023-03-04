@@ -8,14 +8,10 @@
 - [books](./0-Bookmarks/books.md)
 
 ## 1-Java
-- [java-se](./1-Java/java-se.md)
+- [java-se](1-Java/java-se.md)
 
-## 2-数据结构&算法&设计模式
-
-- [2.1-数据结构](2-LeetCode/2.1.md)
-- [2.2-设计模式](2-LeetCode)
-- [2.3-LeetCode]()
-- [2.4-算法]()
+## 2-LeetCode
+- [2.1-LeetCode](2-LeetCode/leetcode/LeetCode.md)
 
 ## 3-MiddleWare
 - [3.1-Json](3-MiddleWare/3.1-Json/json.md)
@@ -50,7 +46,6 @@
 - [flume](5-Bigdata)
 
 ## 6-Golang
-
 - [docker](6-Golang/docker/docker.md)
 - [k8s]()
 
