@@ -55,22 +55,15 @@
 - [k8s]()
 
 ## 7-操作系统
-### 操作系统
 - [linux](7-system/linux/linux.md)
 - [shell](7-system/shell/shell.md)
 - [macos](7-system/macos/macos.md)
+- [windows](7-system/windows/windows.md)
 
-### windows
--[安装部署](7-system/windows/install.md)
-
-## 8-Python&shell
+## 8-Python
 ### python
 - [python](7-system/python/python.md)
-- [pip安装包下载](https://pypi.org/)
-- [Django](7-system/python/Django.md)
 
-
-### shell
 ### pyspark
 ### selenium
 - [基础教程](./8-Python&shell/selenium/base.md)
