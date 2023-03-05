@@ -33,7 +33,7 @@
 - [4.4-Hive](4-Database/4.3-Hive/Hive.md)
 
 ## 5-Bigdata
-- [5.1-God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)
+
 - [5.2-scala](5-Bigdata)
 - [5.3-hadoop](5-Bigdata)
 - [5.4-zookeeper](5-Bigdata)
@@ -86,6 +86,6 @@
 
 ## 12-interview&offer
 - [offer](12-offer/offer/offer.md)
-
+- [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)
 
 
