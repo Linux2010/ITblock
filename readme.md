@@ -7,7 +7,8 @@
 - [books](./0-Bookmarks/books.md)
 
 ## 1-Java
-- [java-se](1-Java/java-se.md)
+- [java-se](1-Java/java-se/java-se.md)
+- [java-ee](1-Java/java-ee/java-ee.md)
 
 ## 2-LeetCode
 - [2.1-LeetCode](2-LeetCode/leetcode/LeetCode.md)
