@@ -1,4 +1,9 @@
 # springBoot
+
+### QA
+
+- [SpringBoot外部配置文件注入Bean对象使用大全](https://blog.csdn.net/qinwuxian19891211/article/details/104851038)
+
 ## springboot集成
 - 多数据源链接方案dynamic，动态数据源
   - [多数据源pageHelper方言](https://blog.csdn.net/LZY_1993/article/details/125613103)

@@ -5,7 +5,7 @@
 - [Linux中添加、修改和删除用户和用户组](https://blog.csdn.net/GMingZhou/article/details/78706439)
 ```shell
 useradd -m username
-pwd nusername
+passwd pwd
 ```
 ### rm 操作
 - [Linux操作系统之rm命令详解 ](https://www.cnblogs.com/hls-code/p/16692397.html)
@@ -129,7 +129,7 @@ zip -r name.zip *
 
 ### grep操作
 - [linux 用 grep 查找单个或多个字符串（关键字）](https://cloud.tencent.com/developer/article/1793323)
-```
+```shell
 1、单个字符串进行查找：
 
 1、查找当前目录文件名中的字符串：    grep  字符串  文件名
@@ -164,3 +164,12 @@ egrep  "字符串1|字符串2|字符串3|"  文件名
 
 
 ```
+
+
+### scp
+- [使用scp命令在本地和服务器之间传输文件](https://blog.csdn.net/cm_mz/article/details/124461259)
+
+- [关于linux：scp是否创建目标文件夹(如果不存在)](https://www.codenong.com/12920947/)
+
+### crontab
+- [crontab命令](https://www.laobuluo.com/9297.html)
