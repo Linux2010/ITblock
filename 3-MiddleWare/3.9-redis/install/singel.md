@@ -1,4 +1,4 @@
-## Redis单节点安装
+## Redis 单节点安装-linux服务器
 
 ### 1, 将redis-5.0.9.tar.gz包上传到A服务器 /install-pkgs文件下
 ### 2，解压redis-5.0.9.tar.gz
@@ -38,5 +38,4 @@ requirepass 123456
 cd /install-pkgs/redis-5.0.9/src
 ./redis-server ../redis.conf &
 ```
-
 

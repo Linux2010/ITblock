@@ -46,19 +46,19 @@
 - [5.10-flume](5-Bigdata)
 
 ## 6-Golang
-- [docker](6-Golang/docker/docker.md)
-- [k8s]()
+- [6.1-docker](6-Golang/docker/docker.md)
+- [6.2-k8s]()
 
 ## 7-操作系统
-- [linux](7-system/linux/linux.md)
-- [shell](7-system/shell/shell.md)
-- [macos](7-system/macos/macos.md)
-- [windows](7-system/windows/windows.md)
+- [7.1-linux](7-system/linux/linux.md)
+- [7.2-shell](7-system/shell/shell.md)
+- [7.3-macos](7-system/macos/macos.md)
+- [7.4-windows](7-system/windows/windows.md)
 
 ## 8-Python
-- [python](8-Python/python/python.md)
-- [selenium](8-Python/selenium/selenium.md)
-- [pyspark](8-Python/pyspark/pyspark.md)
+- [8.1-python](8-Python/python/python.md)
+- [8.2-selenium](8-Python/selenium/selenium.md)
+- [8.3-pyspark](8-Python/pyspark/pyspark.md)
 
 ## 9-utils
 - [office]()
@@ -67,8 +67,6 @@
 - [maven](9-utils/maven/maven.md)
 - [idea](9-utils/idea/idea.md)
 
-### idea
-- [idea](9-utils/idea/idea.md)
 - [vscode]()
 - [markdown](9-utils/markdown/markdown.md)
 - [dbeaver](9-utils/dbeaver/dbeaver.md)
