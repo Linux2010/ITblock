@@ -12,3 +12,6 @@
   - [Linux shell中对日期时间的处理、日期时间加减](http://lxw1234.com/archives/2015/10/522.htm)
   - [linux shell 当前时间、过去、未来几天的时间设置](https://blog.csdn.net/sodaloveer/article/details/124866941)
 
+- Expect 命令行交互
+  - https://www.cnblogs.com/msxh/p/13567400.html
+  - https://blog.csdn.net/tjcwt2011/article/details/128498954
