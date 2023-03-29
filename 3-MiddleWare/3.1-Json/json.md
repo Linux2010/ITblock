@@ -1,1 +1,2 @@
 - [java 无限递归遍历json对象](https://blog.csdn.net/liuxiao723846/article/details/108742251)
+- [fastjson 的简单使用，对象与JSON字符串互转](https://blog.csdn.net/weixin_44496396/article/details/109773658)
