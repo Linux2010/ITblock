@@ -68,7 +68,7 @@
 - [idea](9-utils/idea/idea.md)
 - [pycharm](9-utils/pycharm/pycharm.md)
 
-- [vscode]()
+- [vscode](9-utils/vscode/vscode.md)
 - [markdown](9-utils/markdown/markdown.md)
 - [dbeaver](9-utils/dbeaver/dbeaver.md)
 - [Jmeter](9-utils/Jmeter/Jmeter.md)
