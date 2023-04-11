@@ -7,3 +7,9 @@
 - [oracle中with的用法及用处](https://blog.csdn.net/weixin_37222169/article/details/123841521)
 - [oracle学习之with as](https://blog.csdn.net/qq_42797527/article/details/119567377)
 
+- oracle分区表
+  - [Oracle 表分区详解（partition table）](https://blog.csdn.net/qq_34745941/article/details/109027781)
+  - [Oracle 分区表](https://blog.csdn.net/Hao1999_/article/details/123757271)
+  - [oracle分区crud](https://www.php.cn/oracle/489595.html)
+
+​	

@@ -66,6 +66,7 @@
 - [git](9-utils/git/git.md)
 - [maven](9-utils/maven/maven.md)
 - [idea](9-utils/idea/idea.md)
+- [pycharm](9-utils/pycharm/pycharm.md)
 
 - [vscode]()
 - [markdown](9-utils/markdown/markdown.md)
