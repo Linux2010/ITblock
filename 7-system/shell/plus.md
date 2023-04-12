@@ -15,3 +15,6 @@
 - Expect 命令行交互
   - https://www.cnblogs.com/msxh/p/13567400.html
   - https://blog.csdn.net/tjcwt2011/article/details/128498954
+- 批量压缩文件
+  - [shell中的if条件判断](https://blog.csdn.net/w2009211777/article/details/125450061)
+

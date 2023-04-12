@@ -72,6 +72,9 @@
 - [markdown](9-utils/markdown/markdown.md)
 - [dbeaver](9-utils/dbeaver/dbeaver.md)
 - [Jmeter](9-utils/Jmeter/Jmeter.md)
+- [termius](9-utils/termius/termius.md)
+
+  
 
 ## 10-数仓&数据中台
 - [数仓建设学习课程](./10-dw/dw.md)
