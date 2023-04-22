@@ -12,4 +12,5 @@
   - [Oracle 分区表](https://blog.csdn.net/Hao1999_/article/details/123757271)
   - [oracle分区crud](https://www.php.cn/oracle/489595.html)
 
-​	
+ - [dba权限以及创建用户](https://blog.csdn.net/fengsheng5210/article/details/78845144)
+
