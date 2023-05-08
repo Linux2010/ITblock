@@ -25,6 +25,9 @@ volatile-lru
 
 ## 2,关闭1台master节点
 ```shell
+#把slave的权重提高
+config set slave-priority 200
+
 #主动故障转移
 redis-cli -p {sentinel_port} SENTINEL failover {cluster_name}
 
@@ -40,6 +43,8 @@ kill sentinel的进程号
 ./start-redis.sh
 ./start-sentinel.sh
 
+#把权重调回正常
+config set slave-priority 100
 ```
 
 ## 3， 检查参数
