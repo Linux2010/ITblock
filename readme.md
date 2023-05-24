@@ -1,6 +1,6 @@
 # 3ITblock
-> 1,**项目简介** ：这是一个IT技能工作文档。
-> 2,**转载须知** ：转载在文首注明出处：ITblock！
+> 1,**项目简介** ：软件工程师知识汇总，stay hungry,stay foolish.
+> 2,**转载须知** ：转载在文首注明出处：IT-block！
 
 ## 0-Bookmarks
 - [Bookmarks](./0-Bookmarks/Bookmarks.md)
@@ -82,10 +82,8 @@
 
 ## 11-exam
 - [证书信息收集](./11-exam/exam.md)
-- [PMP结构化知识](./11-exam/pmp/pmp.md)
-- [PMP考点](./11-exam/pmp/pmp-exam.md)
-- [软考教程](./11-exam/rk/rk.md)
-- [教程](./11-exam/ccp&cca.md)
+- [PMP](./11-exam/pmp/pmp.md)
+- [软考](./11-exam/rk/rk.md)
 
 ## 12-interview&offer
 - [offer](12-offer/offer/offer.md)
