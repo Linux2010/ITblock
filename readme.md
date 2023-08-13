@@ -39,7 +39,7 @@
 - [5.3-hadoop](5-Bigdata)
 - [5.4-zookeeper](5-Bigdata)
 - [5.5-kafka](5-Bigdata)
-- [5.6-spark](5-Bigdata)
+- [5.6-spark](5-Bigdata/spark/spark.md)
 - [5.7-flink](5-Bigdata/flink/flink.md)
 - [5.8-impala](5-Bigdata)
 - [5.9-clickhouse](5-Bigdata)
