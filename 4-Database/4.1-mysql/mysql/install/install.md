@@ -4,6 +4,11 @@
 ### windows
 ### macos
 ### linux
+- [linux-mysql8安装](https://blog.csdn.net/u011421988/article/details/107234718)
+
+- 问题处理
+  - [初始化Mysql报错：error while loading shared libraries: libaio.so.1: cannot open shared object...](https://blog.csdn.net/qq_41817925/article/details/118674315)
+
 
 ## 常见问题Q&A
 - 连不上服务器
