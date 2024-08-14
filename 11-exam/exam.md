@@ -6,4 +6,6 @@
 
   - [CCA认证介绍](https://www.cnblogs.com/yinzhengjie/articles/11022949.html)
 
+- [软考](rk/rk.md)
+
 
