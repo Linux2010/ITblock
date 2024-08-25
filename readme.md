@@ -1,6 +1,6 @@
 # 3ITblock
-> 1,**项目简介** ：软件工程师知识汇总，stay hungry,stay foolish.
-> 2,**转载须知** ：转载在文首注明出处：IT-block！
+> 1,**项目简介** ：IT知识备忘录，stay hungry,stay foolish.
+> 2,**转载须知** ：转载请注明出处：IT-block！
 
 ## 0-Bookmarks
 - [Bookmarks](./0-Bookmarks/Bookmarks.md)
@@ -86,6 +86,7 @@
 - [软考](./11-exam/rk/rk.md)
 
 ## 12-interview&offer
-- [offer](12-offer/offer/offer.md)
+> 面试八股文
 - [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)
+- javaGuide：https://javaguide.cn/home.html
 
