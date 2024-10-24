@@ -84,9 +84,10 @@
 - [证书信息收集](./11-exam/exam.md)
 - [PMP](./11-exam/pmp/pmp.md)
 - [软考](./11-exam/rk/rk.md)
+- [master](11-exam/master/master.md)
 
-## 12-interview&offer
-> 面试八股文
+## 12-offer
 - [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)
-- javaGuide：https://javaguide.cn/home.html
+- [javaGuide](https://javaguide.cn/home.html)
+- [offer](12-offer/offer/offer.md)
 
