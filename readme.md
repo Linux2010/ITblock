@@ -45,8 +45,8 @@
 - [5.9-clickhouse](5-Bigdata)
 - [5.10-flume](5-Bigdata)
 
-## 6-Golang
-- [6.1-docker](6-Golang/docker/docker.md)
+## 6-AI
+- [6.1-docker](6-AI/docker/docker.md)
 - [6.2-k8s]()
 
 ## 7-操作系统
