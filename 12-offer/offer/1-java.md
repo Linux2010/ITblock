@@ -1,6 +1,10 @@
 ## java
+> java知识
 - 问：java的hashmap实现原理，以及currentHashMap，你在项目中如何使用？
-    - 答：
+  - 答：
 - 问：java的IO模型介绍一下？
-    - 答：
-- 问：java的面向对象，你如何理解？
+  - 答：
+- 问：java中深拷贝和浅拷贝区别了解吗？什么是引用拷贝？
+  - 答：
+- 问：Java的object类有几个方法，都是什么？
+  - 答：java中所有的类都继承类object类，一共有13个方法，clone，getClass，hashCode，toString，equals，clone，notify，notifyAll，3个wait方法，参数不同主要区别是超时时间
