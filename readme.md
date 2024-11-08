@@ -89,5 +89,5 @@
 ## 12-offer
 - [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)
 - [javaGuide](https://javaguide.cn/home.html)
-- [offer](12-offer/offer/offer.md)
+- [offer](12-offer/offer/0-offer)
 
