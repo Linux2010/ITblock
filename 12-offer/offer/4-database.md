@@ -7,3 +7,8 @@
 ---
 - 问：innoDB引擎执行查询和插入的流程是什么？
     - pass
+---
+- 问：mysql主从同步过程介绍一下？
+  - 1，master将改变的信息记录到二进制日志里（binary log）中。
+  - 2，slave将master的binary log拷贝至中继日志（relay log）。
+  - 3，slave重做中继日志中的事件，修改自身的数据。
