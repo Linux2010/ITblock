@@ -2,6 +2,7 @@
 > java知识
 - 问：java的hashmap实现原理，以及currentHashMap，你在项目中如何使用？
   - 答：jdk1.8中，hashmap初始化状态是数组+链表，链表长度大于8时，先扩容数组到64，然后将链表转为红黑树。
+  - 数组默认16，负载因子0.75，临界值=数组size*负载因子，size大于临界值进行扩容，x2.
 --- 
 - 问：java的IO模型介绍一下？
   - 答：
@@ -22,3 +23,6 @@
 ---
 - 问：Java中重写equals方法，需要重写hashCode方法吗？为什么？
   - 两个equals相同的对象，hashCode要必须保证相同，否则出现equals相同，hashCode不等的bug
+---
+- 问：java中collection包含了哪些？/介绍一下java的集合类
+  - list/queue/stack，map/set
