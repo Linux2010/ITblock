@@ -20,3 +20,5 @@
   - jvm为了提升性能，减少内存消耗，针对字符串类型专门开辟的区域，避免字符串重复创建。
   - 字符串常量池位于元空间（metaspace中）。
 ---
+- 问：Java中重写equals方法，需要重写hashCode方法吗？为什么？
+  - 两个equals相同的对象，hashCode要必须保证相同，否则出现equals相同，hashCode不等的bug
