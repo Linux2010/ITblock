@@ -1,7 +1,7 @@
 ## java
 > java知识
 - 问：java的hashmap实现原理，以及currentHashMap，你在项目中如何使用？
-  - 答：
+  - 答：jdk1.8中，hashmap初始化状态是数组+链表，链表长度大于8时，先扩容数组到64，然后将链表转为红黑树。
 --- 
 - 问：java的IO模型介绍一下？
   - 答：
