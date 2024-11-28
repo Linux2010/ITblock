@@ -7,10 +7,10 @@
 - [books](./0-Bookmarks/books.md)
 
 ## 1-Java
-- [java-se](1-Java/java-se/java-se.md)
-- [java-ee](1-Java/java-ee/java-ee.md)
+- [java](1-Java/java.md)
 
 ## 2-LeetCode
+> leetcode竞赛全球排名前0.01%，全站排名前100
 - [2.1-LeetCode](2-LeetCode/leetcode/LeetCode.md)
 
 ## 3-MiddleWare
