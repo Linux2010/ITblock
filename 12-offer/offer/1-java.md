@@ -26,3 +26,8 @@
 ---
 - 问：java中collection包含了哪些？/介绍一下java的集合类
   - list/queue/stack，map/set
+
+---
+- 问：介绍一下java的io模型
+  - java主要是3种io模型，bio-阻塞io：数据准备，数据拷贝均阻塞，nio-io多路复用：数据准备非阻塞，数据拷贝阻塞，aio-异步io：数据准备，数据拷贝均非阻塞。
+  - netty使用nio。
