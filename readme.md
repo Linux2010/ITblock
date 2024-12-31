@@ -1,6 +1,6 @@
 # ITblock
 > 1,**项目简介** ：IT知识备忘录，stay hungry,stay foolish.
-> 2,**费曼学习法** 
+> 2,**费曼学习法**
 
 ## 0-Bookmarks
 - [Bookmarks](./0-Bookmarks/Bookmarks.md)
