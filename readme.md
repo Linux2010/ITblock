@@ -12,7 +12,7 @@
 ## 2-LeetCode
 > leetcode竞赛全球排名前0.01%，全站排名前100
 - [2.1-LeetCode](2-LeetCode/leetcode/LeetCode.md)
-- [2.2-数据结构-java](2-LeetCode/尚硅谷韩顺平老师数据结构分享/老师笔记.pdf)
+- [2.2-数据结构-java](2-LeetCode/DataStruct/尚硅谷韩顺平老师数据结构分享/老师笔记.pdf)
 ## 3-MiddleWare
 - [3.1-Json](3-MiddleWare/3.1-Json/json.md)
 - [3.2-spring](3-MiddleWare/3.2-spring/spring.md)
@@ -91,3 +91,6 @@
 - [javaGuide](https://javaguide.cn/home.html)
 - [offer](12-offer/offer/0-offer)
 
+## 13-ex
+- [金融风控](13-ex/risk.md)
+- [金融数仓](13-ex/dw.md)
