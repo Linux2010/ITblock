@@ -31,7 +31,7 @@
 - [3.11-nginx](3-MiddleWare/3.11-nginx/nginx.md)
 
 ## 4-Database
-- [4.2-sql](4-Database/4.1-sql/sql.md)
+- [4.1-sql](4-Database/4.1-sql/sql.md)
 - [4.2-mysql](4-Database/4.1-mysql/mysql.md)
 - [4.3-oracle](4-Database/4.2-oracle/oracle.md)
 - [4.4-PrestoSQL](4-Database/4.3-PrestoSQL/PrestoSQL.md)
