@@ -1,5 +1,7 @@
 # ITblock
-> 1,**项目简介** ：IT知识备忘录，stay hungry,stay foolish.
+> 1,**项目简介** ：ITπ知识备忘录，stay hungry,stay foolish.
+- 构建知识体系：金融业务，Java/python/scala，算法，高可用服务，大数据，数仓，数据分析，机器学习
+- 业务知识 > 算法 > 技术架构
 > 2,**费曼学习法**
 
 ## 0-Bookmarks
