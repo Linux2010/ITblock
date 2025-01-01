@@ -1,5 +1,6 @@
 # ITblock
-> 1,**项目简介** ：IT知识备忘录，stay hungry,stay foolish.
+> 1,**项目简介** 
+- IT知识备忘录，stay hungry,stay foolish.
 - 业务知识 > 算法 > 技术架构
 > 2,**费曼学习法**
 - 输出倒逼输入，总结属于自己的知识体系
