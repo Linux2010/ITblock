@@ -13,3 +13,11 @@
 - [Redis主从复制高可用，哨兵的使用 | Sentinel 哨兵的快速搭建 | 哨兵的两种启动方式](https://blog.csdn.net/succing/article/details/121265307)
 - [【redis】redis 主从哨兵架构重启](https://www.jianshu.com/p/23cfb803a6d9)
 
+#### redis哨兵模式 60G以上主从同步优化方案
+```shell
+# 设置环形缓冲区
+config set client-output-buffer-limit "slave 2147483648 1073741824 60"
+# 提高传输速率
+config set repl-backlog-size 80mb
+```
+
