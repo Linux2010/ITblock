@@ -11,8 +11,8 @@
 - [vpn-paopao](https://lting.cyou/auth/register?code=brc7)
 
 ## video
-- [小宝电影(白嫖电影)](https://xiaoheimi.net/)
+- [小宝电影(电影)](https://xiaoheimi.net/)
 - [hoho](https://hoho.tv/)
 
 ## utils
-- [油小猴（白嫖下载网速）](https://www.youxiaohou.com/)
+- [油小猴（下载网速）](https://www.youxiaohou.com/)
