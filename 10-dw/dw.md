@@ -2,7 +2,6 @@
 
 ## 大数据项目之电商数仓3.0
 - [大数据项目之电商数仓3.0](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFF87NFB9t0WgGu3bMbhG76)
-- [大数据项目之尚品汇（电商数仓4.0）](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFQ9gasfojtkDmcY5oXsgxe)
 ---
 - [尚硅谷大数据项目之电商数仓（1用户行为采集平台）.doc](./sgg-word/尚硅谷大数据项目之电商数仓（1用户行为采集平台）.docx)
 - [尚硅谷大数据项目之电商数仓（2业务数据采集平台）.docx](./sgg-word/尚硅谷大数据项目之电商数仓（2业务数据采集平台）.docx)
@@ -17,6 +16,10 @@
 - [尚硅谷大数据项目之电商数仓（4可视化报表）.pdf](./sgg-pdf/尚硅谷大数据项目之电商数仓（4可视化报表）.pdf)
 - [尚硅谷大数据项目之电商数仓（5即席查询Presto&Kylin）.pdf](./sgg-pdf/尚硅谷大数据项目之电商数仓（5即席查询Presto&Kylin）.pdf)
 - [尚硅谷大数据项目之电商数仓（6集群监控Zabbix）V6.2.0.pdf](./sgg-pdf/尚硅谷大数据项目之电商数仓（6集群监控Zabbix）V6.2.0.pdf)
+
+## 大数据项目之电商数仓4.0
+- [大数据项目之尚品汇（电商数仓4.0）](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFQ9gasfojtkDmcY5oXsgxe)
+
 
 
 ## 重点章节

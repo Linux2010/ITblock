@@ -1,0 +1,17 @@
+网站地址：http://gmall.atguigu.cn/
+
+    登录用户名：13700000000
+	登录密码：保密
+
+一、业务数据
+    网站MySQL地址：39.98.123.211
+    网站MySQL用户名：root 
+    网站MySQL密码：保密
+
+   查订单：SELECT * FROM order_info ORDER BY id DESC LIMIT 10;
+
+二、用户行为数据
+    日志服务器地址：47.95.21.174    
+    日志服务器用户名：atguigu 
+    日志服务器密码：保密
+    日志存储路径：/opt/applog/gmall/app.log
