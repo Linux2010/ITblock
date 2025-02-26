@@ -6,3 +6,5 @@
 - mac挂载硬盘到指定挂载点
   - diskutil list
   - sudo diskutil mount -mountPoint /Users/kylin/hope_nas /dev/disk6s1
+
+- [macos配置键盘鼠标映射，Karabiner+Hammerspoon](./Karabiner-Hammerspoon.md)
