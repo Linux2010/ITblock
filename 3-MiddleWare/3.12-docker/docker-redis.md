@@ -3,13 +3,13 @@
 - [docker启动redis简单方法](https://blog.csdn.net/Jacson__/article/details/124399997)
 
 ```shell
-docker pull redis
+3.12-docker pull redis
 
-# 以/docker/redis为例
-mkdir -p /docker/redis
-mkdir -p /docker/redis/data
-touch /docker/redis/redis.conf
-touch /docker/redis/redis.bash
+# 以/3.12-docker/redis为例
+mkdir -p /3.12-docker/redis
+mkdir -p /3.12-docker/redis/data
+touch /3.12-docker/redis/redis.conf
+touch /3.12-docker/redis/redis.bash
 
 ```
 - 编辑配置文件vim /docker/redis/redis.conf
@@ -34,13 +34,13 @@ appendonly yes
 ```
 
 ```shell
-docker run -p 6379:6379 --name redis -v /docker/redis/redis.conf:/etc/redis/redis.conf -v /docker/redis/data:/data -d redis redis-server /etc/redis/redis.conf 
+3.12-docker run -p 6379:6379 --name redis -v /3.12-docker/redis/redis.conf:/etc/redis/redis.conf -v /3.12-docker/redis/data:/data -d redis redis-server /etc/redis/redis.conf 
 
-docker run redis # 从redis镜像运行容器
+3.12-docker run redis # 从redis镜像运行容器
 -p 6379:6379 # 映射本地6379端口到容器6379端口，前为本地端口
 --name redis # 设置容器名称为redis，方便以后使用docker ps进行管理
--v /docker/redis/redis.conf:/etc/redis/redis.conf # 关联本地/docker/redis/redis.conf文件到容器中/etc/redis/redis.conf，同样，前为本地
--v /docker/redis/data:/data # 关联本地/docker/redis/data到容器内/data目录，此为存放redis数据的目录，为方便以后升级redis，而数据可以留存
+-v /3.12-docker/redis/redis.conf:/etc/redis/redis.conf # 关联本地/3.12-docker/redis/redis.conf文件到容器中/etc/redis/redis.conf，同样，前为本地
+-v /3.12-docker/redis/data:/data # 关联本地/3.12-docker/redis/data到容器内/data目录，此为存放redis数据的目录，为方便以后升级redis，而数据可以留存
 -d # 后台启动，使用此方式启动，则redis.conf中daemonize必须设置为no，否则会无法启动
 redis-server /etc/redis/redis.conf # 在容器内启动redis-server的命令，主要是为了加载配置
 
@@ -51,13 +51,13 @@ redis-server /etc/redis/redis.conf # 在容器内启动redis-server的命令，�
 ```shell
 
 # 查看是否已启动
-docker ps
+3.12-docker ps
 # 如果无法启动或者docker ps中无对应内容，将bash中命令复制出来，删除-d参数启动，查看报错信息
 # 使用redis-cli或者rdm访问 localhost:6379
 # 如需访问容器，可使用
-docker exec -it redis bash
+3.12-docker exec -it redis bash
 # 或直接使用redis-cli访问容器内redis
-docker exec -it redis redis-cli [-a mima]
+3.12-docker exec -it redis redis-cli [-a mima]
 #出现以下错误则是没有输入密码导致
 127.0.0.1:6379> set name "hello"  
 (error) NOAUTH Authentication required.

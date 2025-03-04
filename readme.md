@@ -17,6 +17,7 @@
 > leetcode竞赛全球排名前0.01%，全站排名前100
 - [2.1-LeetCode](2-LeetCode/leetcode/LeetCode.md)
 - [2.2-数据结构-java](2-LeetCode/DataStruct/尚硅谷韩顺平老师数据结构分享/老师笔记.pdf)
+
 ## 3-MiddleWare
 - [3.1-Json](3-MiddleWare/3.1-Json/json.md)
 - [3.2-spring](3-MiddleWare/3.2-spring/spring.md)
@@ -29,6 +30,7 @@
 - [3.9-redis](3-MiddleWare/3.9-redis/redis.md)
 - [3.10-webService](3-MiddleWare/3.10-webService/webService.md)
 - [3.11-nginx](3-MiddleWare/3.11-nginx/nginx.md)
+- [3.12-docker](3-MiddleWare/3.12-docker/docker.md)
 
 ## 4-Database
 - [4.1-sql](4-Database/4.1-sql/sql.md)
@@ -50,7 +52,6 @@
 - [5.10-flume](5-Bigdata)
 
 ## 6-AI
-- [6.1-docker](6-AI/docker/docker.md)
 - [6.2-k8s]()
  
 ## 7-操作系统

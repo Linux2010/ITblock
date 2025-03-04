@@ -5,13 +5,13 @@
 - 1. 启动docker-mysql
 
 ```shell
-docker pull mysql:8.0.23
+3.12-docker pull mysql:8.0.23
 
-sudo docker run -p 3306:3306 --name mysql \
--v /docker/mysql/mysql-files:/var/lib/mysql-files \
--v /docker/mysql/conf:/etc/mysql \
--v /docker/mysql/logs:/var/log/mysql \
--v /docker/mysql/data:/var/lib/mysql \
+sudo 3.12-docker run -p 3306:3306 --name mysql \
+-v /3.12-docker/mysql/mysql-files:/var/lib/mysql-files \
+-v /3.12-docker/mysql/conf:/etc/mysql \
+-v /3.12-docker/mysql/logs:/var/log/mysql \
+-v /3.12-docker/mysql/data:/var/lib/mysql \
 -e MYSQL_ROOT_PASSWORD=root \
 -d mysql:8.0.23 --lower-case-table-names=1
 
@@ -20,7 +20,7 @@ sudo docker run -p 3306:3306 --name mysql \
 - 2，设置外部访问
 
 ```shell
-sudo docker exec -it mysql bash
+sudo 3.12-docker exec -it mysql bash
 mysql -uroot -p
 ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY 'root'; 
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root'; 
