@@ -52,7 +52,7 @@
 - [5.10-flume](5-Bigdata)
 
 ## 6-AI
-- [6.2-k8s]()
+- [AI.md](6-AI/AI.md)
  
 ## 7-操作系统
 - [7.1-linux](7-system/linux/linux.md)
