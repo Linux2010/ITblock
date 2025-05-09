@@ -2,6 +2,7 @@
 > 1,**项目简介** 
 - IT知识备忘录，stay hungry,stay foolish.
 - 业务知识 > 算法 > 技术架构
+- AI降临 
 > 2,**费曼学习法**
 - 输出倒逼输入，总结属于自己的知识体系
 - 构建知识体系：金融业务，Java/python/scala，算法，高可用服务，大数据，数仓，数据分析，机器学习
@@ -14,7 +15,6 @@
 - [java](1-Java/java.md)
 
 ## 2-LeetCode
-> leetcode竞赛全球排名前0.01%，全站排名前100
 - [2.1-LeetCode](2-LeetCode/leetcode/LeetCode.md)
 - [2.2-数据结构-java](2-LeetCode/DataStruct/尚硅谷韩顺平老师数据结构分享/老师笔记.pdf)
 
